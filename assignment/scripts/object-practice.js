@@ -15,7 +15,6 @@ const me = {
   hasSiblings: true,
   shoeCount: 4,
   favThreeFoods: ['pizza','jucy lucies','breakfast foods'],
-
 };//end me object
 
 console.log('A little about me:', me);
